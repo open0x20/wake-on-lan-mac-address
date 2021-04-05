@@ -1,5 +1,5 @@
 [package]
-name = "wake-on-lan-mac-address-lib"
+name = "wake-on-lan-mac-address"
 version = "0.1.0"
 authors = ["DependencyInversion"]
 edition = "2018"
